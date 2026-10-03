@@ -2,13 +2,17 @@
 
 > **Read-only archive of released versions of katosdev/automore.** Not for installation: use [Packagist](https://packagist.org/packages/katosdev/automore) or the [upstream repository](https://github.com/katosdev/automore).
 
-**0** versions archived · Latest: [`1.0`](https://github.com/flarchive/katosdev-automore/tree/archive/v1.0) · License: `MIT` · Flarum: `^1.2.0`
+**5** versions archived · Latest: [`1.0`](https://github.com/flarchive/katosdev-automore/tree/archive/v1.0) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2018-05-10 | `^0.1.0-beta-7` | [Browse](https://github.com/flarchive/katosdev-automore/tree/archive/v0.1.0) |
+| `0.2.0` | 2018-05-10 | `^0.1.0-beta-7` | [Browse](https://github.com/flarchive/katosdev-automore/tree/archive/v0.2.0) |
+| `0.3.0` | 2019-01-10 | `^0.1.0-beta-8` | [Browse](https://github.com/flarchive/katosdev-automore/tree/archive/v0.3.0) |
+| `0.3.1` | 2021-02-22 | `^0.1.0-beta-15` | [Browse](https://github.com/flarchive/katosdev-automore/tree/archive/v0.3.1) |
+| `1.0` | 2023-12-09 | `^1.2.0` | [Browse](https://github.com/flarchive/katosdev-automore/tree/archive/v1.0) |
 
 Catalog entry: [packages/katosdev-automore.json](https://github.com/flarchive/archive-index/blob/main/packages/katosdev-automore.json)
 
